@@ -28,6 +28,24 @@ The three models used are:
 
 
 
+Files:
+
+\-earthqauke\_data.csv
+
+\-Final Project A - Paul Allen.doc
+
+\-Final Project Part B - Paul Allen
+
+\-Final Project Part C - Allen
+
+\-Final Project Presentation\_Paul Allen.pptx
+
+\-Final\_Project\_PaulAllen.ipynb
+
+\-Paul Allen-ISTA421-Final Paper.doc
+
+\-README.md
+
 
 
 Dataset:
